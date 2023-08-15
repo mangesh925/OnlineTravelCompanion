@@ -1,25 +1,35 @@
-Online Companion for Travel
-## Introduction
+# VoyaFriend
+Welcome to the repository of VoyaFriend. This website has been meticulously crafted using React.js, leveraging its powerful features and dependencies to provide a seamless and responsive user experience.
 
-**Develop and Launch an Intricate Travel Companion App with Google Maps.**
+## Features:
 
-This application stands out with features such as:
-- Geolocation
-- Integration with Google Maps API
-- Location-based searches for places
-- Procuring detailed data on restaurants, hotels, and attractions using specialized Rapid APIs
+- **Developed with React.js:** The site harnesses the capabilities of React.js, offering dynamic interactivity and efficient rendering.
+- **Responsive Design:** Designed with a mobile-first approach, ensuring the website is accessible and user-friendly on all device sizes, from mobile phones to desktop monitors.
+- **Hosted on GitHub:** Easy source code access, version control, and transparency.
 
-With a plethora of functionalities like data filtering and beyond, our Travel Advisor App is arguably among the finest Maps Applications you can find on YouTube and the web at large.
+## Live Demo:
+Experience the website firsthand! [Live Demo on CodeSandbox](https://vr7ylf.csb.app/).
 
-In this tutorial, you'll dive into:
+## Development Setup:
 
-- **Advanced React Techniques**: Dive deep into advanced React practices like efficient folder & file organization, use of hooks, and refs.
-- **Material UI Design**: Craft a user-centric interface with the power of Material UI.
-- **Google Maps API Mastery**: Learn to effectively integrate and manipulate the Google Maps API.
-- **RapidAPI Expertise**: A deep dive into sourcing data from a diverse range of sources, thanks to RapidAPI.
+1. **Clone the Repository:** 
+    ```bash
+    git clone https://github.com/mangesh925/OnlineTravelCompanion.git
+    ```
+2. **Navigate to the Directory:** 
+    ```bash
+    cd OnlineTravelCompanion
+    ```
+3. **Install Dependencies:** 
+    ```bash
+    npm install
+    ```
+4. **Run the Development Server:** 
+    ```bash
+    npm start
+    ```
 
-In a nutshell, get ready to transform into an expert at handling APIs!
+## Feedback:
+Contributions, feedback, and suggestions are welcome!
 
-### APIs Utilized:
-- RapidAPI's Travel Advisor
-- Open Weather Map API
+
